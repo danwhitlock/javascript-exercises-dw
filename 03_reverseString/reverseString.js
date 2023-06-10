@@ -5,7 +5,7 @@ const reverseString = function(str) {
     return joinArray;
 };
 
-console.log(reverseString('hello there'));
+// console.log(reverseString('hello there'));
 
 // Do not edit below this line
 module.exports = reverseString;
